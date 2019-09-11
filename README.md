@@ -50,7 +50,7 @@ hexo-theme-archer
 1. 在**Hexo目录**下执行
 
 ``` shell
-npm i hexo-generator-json-content --save && npm i --save hexo-wordcount && git clone https://github.com/fi3ework/hexo-theme-archer.git themes/archer --depth=1
+npm i hexo-generator-json-content --save && npm i --save hexo-wordcount && git clone https://github.com/ky66111/hexo-theme-archer.git themes/archer --depth=1
 ```
 
 2. 修改**Hexo目录**下的 `_config.yml` 的 `theme` 字段为 `archer`
